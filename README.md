@@ -37,12 +37,19 @@ Instance semantic segmentation is a area closely related to detection and semant
 
 <h2 id="2">2.Segmentation-based methods</h2>
 
+* [SGN: Sequential Grouping Networks for Instance Segmentation](http://www.cs.toronto.edu/~urtasun/publications/liu_etal_iccv17.pdf), ICCV 2017
+
 * [Pixelwise Instance Segmentation with a Dynamically Instantiated Network](https://arxiv.org/abs/1704.02386), CVPR 2017
 
 * [Deep Watershed Transform for Instance Segmentation](https://arxiv.org/abs/1611.08303), CVPR 2017 \[[code](https://github.com/min2209/dwt)\]
 
+* [Multi-scale Patch Aggregation (MPA) for Simultaneous Detection and Segmentation](http://www.cse.cuhk.edu.hk/leojia/papers/mpa_cvpr16.pdf), CVPR 2016
+
 <h2 id="3">3.Others</h2>
 
+* [End-to-End Instance Segmentation with Recurrent Attention](https://arxiv.org/abs/1605.09410), CVPR 2017 
+
+* [Recurrent Instance Segmentation](https://arxiv.org/abs/1511.08250), ECCV 2016 \[[web](https://github.com/bernard24/RIS)\]
 
 **If some related works are missed, please kindly notice me by dxzhang@zju.edu.cn**
 
