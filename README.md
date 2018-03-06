@@ -1,11 +1,10 @@
 # Instance Semantic Segmentation List
 
 This repository contains lists of state-or-art instance semantic segmentation works. Papers and resources are listed below according to method types.
-(on progress)
 
-- [ ] Paper list
-	- [ ] detection based
-	- [ ] segmentation based
+- [x] Paper list
+	- [x] detection based
+	- [x] segmentation based
 
 
 #### Brief introduction
@@ -51,5 +50,4 @@ Instance semantic segmentation is a area closely related to detection and semant
 
 * [Recurrent Instance Segmentation](https://arxiv.org/abs/1511.08250), ECCV 2016 \[[web](https://github.com/bernard24/RIS)\]
 
-**If some related works are missed, please kindly notice me by dxzhang@zju.edu.cn**
 
