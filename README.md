@@ -40,6 +40,8 @@ Instance semantic segmentation is a area closely related to detection and semant
 
 * [SGN: Sequential Grouping Networks for Instance Segmentation](http://www.cs.toronto.edu/~urtasun/publications/liu_etal_iccv17.pdf), ICCV 2017
 
+* [InstanceCut: from Edges to Instances with MultiCut](https://arxiv.org/abs/1611.08272),CVPR 2017
+
 * [Pixelwise Instance Segmentation with a Dynamically Instantiated Network](https://arxiv.org/abs/1704.02386), CVPR 2017
 
 * [Deep Watershed Transform for Instance Segmentation](https://arxiv.org/abs/1611.08303), CVPR 2017 \[[code](https://github.com/min2209/dwt)\]
