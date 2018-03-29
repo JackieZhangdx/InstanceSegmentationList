@@ -54,4 +54,6 @@ Instance semantic segmentation is a area closely related to detection and semant
 
 * [Recurrent Instance Segmentation](https://arxiv.org/abs/1511.08250), ECCV 2016 \[[web](https://github.com/bernard24/RIS)\]
 
+* [SDS:Simultaneous Detection and Segmentation](https://arxiv.org/abs/1407.1808), ECCV 2014 \[[web](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/)\] \[[code](https://github.com/bharath272/sds_eccv2014)\]
 
+* [Hypercolumns for Object Segmentation and Fine-grained Localization](https://arxiv.org/abs/1411.5752) , CVPR 2015
