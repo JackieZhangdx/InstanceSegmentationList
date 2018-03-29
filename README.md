@@ -22,6 +22,7 @@ Dataset and benchmark [here](http://lijiancheng0614.github.io/2016/12/02/2016_12
 | Pascal VOC SDB val | 5623    |  5732   |  [SDB](http://home.bharathh.info/pubs/codes/SBD/download.html) | similar to VOC12 Main |
 | COCO               | 115k    |   5k    |  [COCO](http://cocodataset.org/) | coco\_2014\_minival |
 
+Note: Pascal VOC could refer to different split of dataset. Original VOC12 segmentation task consists of train/val/test 1464/1449/1456 images respectively without instance information. It is designed for semantic segmentation. [SDB](http://home.bharathh.info/pubs/codes/SBD/download.html) provides instance-aware annotations for images from Pascal VOC12. And their split(8k/3k) differ from VOC, so another split from them Pasval VOC SDB val is provided, which is similar to Pascal VOC Main split(5717/5823). 
 
 <h2 id="1">1.Detection-based methods</h2>
 
