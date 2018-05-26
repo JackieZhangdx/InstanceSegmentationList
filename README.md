@@ -29,11 +29,11 @@ Note: Pascal VOC could refer to different split of dataset. Original VOC12 segme
 
 * [PAnet:Path Aggregation Network for Instance Segmentation](https://arxiv.org/pdf/1803.01534.pdf), CVPR 2018
 
+* [MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features](https://arxiv.org/abs/1712.04837), CVPR 2018 
+
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870), ICCV 2017  \[[Detectron](https://github.com/facebookresearch/Detectron)\]\[[Code(TF)](https://github.com/matterport/Mask_RCNN)\]\[[Code(MXNET)](https://github.com/TuSimple/mx-maskrcnn)\]
 
 * [BlitzNet: A Real-Time Deep Network for Scene Understanding](https://arxiv.org/abs/1708.02813), ICCV 2017 \[[web](http://thoth.inrialpes.fr/research/blitznet/)\]\[[code](https://github.com/dvornikita/blitznet)\]
-
-* [MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features](https://arxiv.org/abs/1712.04837) Arxiv1712 
 
 * [FCIS: Fully Convolutional Instance-Aware Semantic Segmentation](https://arxiv.org/abs/1611.07709), CVPR 2017 \[[code](https://github.com/msracver/FCIS)\]
 
